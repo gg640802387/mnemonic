@@ -5,10 +5,9 @@
   "bin_url": "",
   "diff_url": "",
   "dir": "",
-  "force_check": "",
-  "check_time": "",
-  "randomize_time": "",
-  "requester": "",
+  "force_check": true,
+  "check_time": 0,
+  "randomize_time": 0,
   "info": {
     "version":  "",
     "sha256": ""
